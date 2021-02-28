@@ -421,6 +421,54 @@ body{
     left: 0px;
     z-index:2;
 }
+.topspeed1{
+    position: absolute;
+    top: 2080px;
+    left: 60px;
+    z-index:3;
+}
+.brzina1{
+    position: absolute;
+    top: 2085px;
+    left: 100px;
+    z-index:3;
+}
+.brzina2{
+    position: absolute;
+    top: 2122px;
+    left: 100px;
+    z-index:3;
+}
+.brzina3{
+    position: absolute;
+    top: 2170px;
+    left: 100px;
+    z-index:3;
+}
+.power1{
+    position: absolute;
+    top: 2098px;
+    left: 320px;
+    z-index:3;
+}
+.snaga1{
+    position: absolute;
+    top: 2085px;
+    left: 350px;
+    z-index:3;
+}
+.snaga2{
+    position: absolute;
+    top: 2122px;
+    left: 350px;
+    z-index:3;
+}
+.snaga3{
+    position: absolute;
+    top: 2170px;
+    left: 350px;
+    z-index:3;
+}
 .shadowlivo2{
     position:absolute;
     top:1569px;
